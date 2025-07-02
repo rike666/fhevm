@@ -3,3 +3,5 @@
 "this my project"
 "good"
 "nice"
+"like"
+"cool"
