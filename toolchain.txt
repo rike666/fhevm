@@ -5,3 +5,6 @@
 "nice"
 "like"
 "cool"
+"Yes"
+"amazing"
+"fox wallet"
