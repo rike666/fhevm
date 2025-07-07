@@ -7,6 +7,8 @@
 </p>
 
 <hr/>
+<hr/>
+<hr/>
 
 <p align="center">
   <a href="fhevm-whitepaper.pdf"> 📃 Read white paper</a> |<a href="https://docs.zama.ai/protocol"> 📒 Documentation</a> | <a href="https://zama.ai/community"> 💛 Community support</a> | <a href="https://github.com/zama-ai/awesome-zama"> 📚 FHE resources by Zama</a>
@@ -36,6 +38,8 @@
 ## About
 
 ### What is FHEVM?
+
+### Yes this is FHEVM!
 
 **FHEVM** is the core framework of the *Zama Confidential Blockchain Protocol*. It enables confidential smart contracts on EVM-compatible blockchains by leveraging Fully Homomorphic Encryption (FHE), allowing encrypted data to be processed directly onchain.
 
